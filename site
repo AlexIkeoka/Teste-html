@@ -1,0 +1,60 @@
+ rel="icon" href="checklist.png">
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="teste.css">
+    </head>
+
+    <body>
+        <main>
+            <h1>Título Principal</h1>
+            <p>O título pricipal se define com H1 e o parágrafo é indicado por p</p>
+            <h2>Especificações</h2>
+            <p>Sempre definir abertura e fechamento da tag</p>
+            <p> As tags são sempre definidas entre  sinal de menor que e maior que</p>
+            <blockquote>
+            <p>Referência bibliográfica</p>
+            <cite>Eu mesmo</cite>
+            </blockquote>
+            <h3>Título 3</h3>
+            <p>O termo "Rel" indica o que ele quer linkar, enquanto o termo "Href" indica o link que ele quer puxar</p>
+            <p>O termo "ul" serve para listar as cosias</p>
+            <h4>Título 4</h4>
+            <p>Teste de link <a href="http://www.google.com">Google</a>
+            <p>Teste de link nele mesmo <a href= "teste.html">Teste</a></p>
+        </main>
+        <img src="checkmark.png" alt="Foto meramente ilustrativa">
+        <h1>Imagem de ilustração</h1>
+        <aside>
+            <nav>
+                <h1>Alex Yuiti Ikeoka</h1>
+                nk 2</a></li>
+                <ul>
+            </nav>
+            <ul  <link rel="icon" href="checklist.png">
+			            <>
+							                <h1>Título Principal</h1>
+									            <p>O título pricipal se define com H1 e o parágrafo é indicado por p</p>
+										                <h2>Especificações</h2>
+												            <p>Sempre definir abertura e fechamento da tag</p>
+													                <p> As tags são sempre definidas entre  sinal de menor que e maior que</p>
+															            <blockquote>
+																                <p>Referência bibliográfica</p>
+																		            <cite>Eu mesmo</cite>
+																			                </blockquote>
+																					            <h3>Título 3</h3>
+																						                <p>O termo "Rel" indica o que ele quer linkar, enquanto o termo "Href" indica o link que ele quer puxar</p>
+																								            <p>O termo "ul" serve para listar as cosias</p>
+																									                <h4>Título 4</h4>
+																											            <p>Teste de link <a href="http://www.google.com">Google</a>
+																												                <p>Teste de link nele mesmo <a href= "teste.html">Teste</a></p>
+																														        </main>
+																															        <img src="checkm
+																																
+																																
+																																
+																																
+																																
+																																ark.png" alt="Foto meramente ilustrativa">
+																																        <h1>Imagem de ilustração</h1>
+																																	        <aside>
+
+																					 </html>
