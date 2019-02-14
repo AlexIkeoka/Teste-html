@@ -1,0 +1,65 @@
+[200~main h1{
+	font-size       : 60px;
+	background-color: rgb(100, 300, 200);
+	color           : #FAFFFA;
+	text-align      : center;
+	font-family     : "Arial", sans-serif;
+	padding         : 20px;
+	margin          : 0px;
+}
+aside h1{
+	    text-align: center
+    }
+    h2{
+	    font-size       : 40px;
+	    font-family     : "Open Sans", "Arial", sans-serif;
+	    color           : #FAFAFA;
+	    background-color: aquamarine
+    }
+    p{
+	    text-align: justify;
+	    margin    : 20px;
+    }
+    blockquote {
+	    background-color: gray;
+	    padding         : 20px;
+	    border          : 10px dashed #C2CCCA;
+	    width           : 250px;
+	    box-sizing      : border-box;
+    }
+    aside{
+	    background-color: #3c1d3d;
+	    color           : #f2fffc;
+	    text-align      : center;
+	    padding         : 20px;
+    }
+    nav{
+	        color: chartreuse;
+	}
+	.frase{
+		    float: right;
+	    }font-family     : "Open Sans Condensed", sans-serif;
+    }
+    .logos-socia    font-weight: 600;
+    is li{
+	        display: inline;
+	}strong{
+
+	footer{
+		    background-c}
+		    olor: #000;
+		        color           : #F2FFFC;
+			        font-style: italic;				padding         : 20px;
+		    }
+		    em{
+font-style: italic;
+}
+strong{
+    font-weight: 600;
+}
+nav{
+    color: chartreuse;
+}
+.frase{
+    float: right;
+}
